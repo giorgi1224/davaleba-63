@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "Iowan Old Style";
+    src: url("fonts/OldStandardTT-Regular.ttf");
+}
+
+.p1 {
+    font-family: "Iowan Old Style";
+    font-size: 20px;
+    color: #000;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+@font-face {
+    font-family: "Iowan Old Style";
+    src: url("fonts/OldStandardTT-Regular.ttf");
+}
+
+.p2 {
+    font-family: "Old Standard TT";
+    font-size: 16px;
+    color: #000;
+    text-transform: capitalize;
+}
+
+@font-face {
+    font-family: "Iowan Old Style";
+    src: url("fonts/OldStandardTT-Regular.ttf");
+    font-weight: 400;
+}
+
+.p3 {
+    font-family: "Old Standard TT";
+    font-size: 16px;
+    color: #000;
+    text-transform: capitalize;
+    font-weight: 400;
+}
