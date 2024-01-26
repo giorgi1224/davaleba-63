@@ -1,6 +1,9 @@
 @font-face {
+
     font-family: "Iowan Old Style";
-    src: url("fonts/OldStandardTT-Regular.ttf");
+
+    src: url(/OldStandardTT-Regular.ttf);
+
 }
 
 .p1 {
